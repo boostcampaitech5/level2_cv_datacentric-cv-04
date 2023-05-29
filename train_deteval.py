@@ -18,7 +18,7 @@ from model import EAST
 import json
 import wandb
 import inference as infer
-import deteval as eval
+import deteval_custom as eval
 
 
 def parse_args():
